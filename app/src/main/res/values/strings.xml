@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BottomAppBar</string>
+    <string name="navigation_1">Work</string>
+    <string name="navigation_2">Timeline</string>
+    <string name="navigation_3">Logout</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="like">Like</string>
+
+</resources>
